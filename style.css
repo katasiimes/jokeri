@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+h3 {
+    margin-bottom: 10px;
+}
+
+button {
+    margin-bottom: 10px;
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 20px;
+    margin-bottom: 20px;
+}
+
+th, td{
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+    border-radius: 6px;
+    width: 18px;
+}
+
+td {
+    background-color: lightpink; 
+}
+
+p {
+    font-style: italic;
+}
